@@ -1,3 +1,11 @@
+// This is a PCIbex implementation of the English phoneme categorization task from Lab 1 in Colin Phillips' Psycholinguistics I class at the University of Maryland. The The original lab is available at http://www.colinphillips.net/teaching/4237-2/3154-2/
+// We ask that if you use this code, you please credit Colin Phillips' 
+// Psycholinguistics class, at the University of Maryland. See: www.colinphillips.net
+
+// The Russian stimuli were created for
+// Kazanina, Phillips & Idsardi. (2006). The influence of meaning on the perception of speech sounds. PNAS. 103(30), 11381-11386.
+// If you use the Russian stimuli, please cite Kazanina et al (2006).
+
 PennController.ResetPrefix(null) // Shorten command names (keep this)
 PennController.DebugOff()
 
