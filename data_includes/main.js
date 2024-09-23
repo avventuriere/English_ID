@@ -42,7 +42,7 @@ newTrial("instructions",
             .css("font-size", "16px")
             .print("center at 50%", "middle at 50%")
     ,
-    newButton("Click when you are ready to begin")
+    newButton("Start")
         .css("font-family", "Helvetica, sans-serif")
         .css("font-size", "16px")
         .center()
